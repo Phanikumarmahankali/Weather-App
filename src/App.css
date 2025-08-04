@@ -1,0 +1,15 @@
+.info {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
+h1{
+  
+}
+h1:hover{
+    color: #007BFF;
+    cursor: pointer;
+    border-bottom: #333 solid 2px;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+}
